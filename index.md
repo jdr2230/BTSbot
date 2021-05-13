@@ -2,6 +2,7 @@
 
 
 안녕하세요, 아이즈원 챗봇을 간단히 만들어보는 챗봇입니다.
+![deer_PNG10186](https://user-images.githubusercontent.com/83766841/118125535-15151600-b432-11eb-8688-1c5bb2c493df.png)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
