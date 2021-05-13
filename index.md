@@ -1,9 +1,7 @@
-## Welcome to GitHub Pages
+## 아이즈원 챗봇 실습 예제
 
-You can use the [editor on GitHub](https://github.com/jdr2230/IZONE/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+안녕하세요, 아이즈원 챗봇을 간단히 만들어보는 챗봇입니다.
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
